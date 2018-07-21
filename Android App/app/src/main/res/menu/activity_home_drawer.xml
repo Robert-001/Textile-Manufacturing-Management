@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:checkableBehavior="single"
+        android:title="Menu" android:id="@+id/menuitems">
+        <item
+            android:id="@+id/addsub"
+            android:icon="@mipmap/ic_add_black_36dp"
+            android:title="Add Subsidiary" />
+        <item
+            android:id="@+id/sublist"
+            android:icon="@mipmap/ic_list_white_36dp"
+            android:title="Subsidiary list" />
+        <item
+            android:id="@+id/addquality"
+            android:icon="@mipmap/ic_add_black_36dp"
+            android:title="Add Quality" />
+        <item
+            android:id="@+id/qualitylist"
+            android:icon="@mipmap/ic_list_white_36dp"
+            android:title="Quality list" />
+    </item>
+
+    <item android:title="Sign Out">
+        <menu>
+            <item
+                android:id="@+id/logout"
+                android:icon="@mipmap/ic_exit_to_app_black_36dp"
+                android:title="LogOut" />
+        </menu>
+    </item>
+
+</menu>

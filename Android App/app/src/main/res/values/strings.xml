@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Anjirwala Fabrics</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="taka_entry">Taka Entry</string>
+    <string name="yarn_entry">Yarn Entry</string>
+    <string name="add_quality">Add Quality</string>
+    <string name="stock_list">Stock List</string>
+    <string name="yarn_list">Yarn List</string>
+
+    <string name="qualityl_list">Choose a Quality</string>
+
+    <string-array name="list_quality">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+</resources>

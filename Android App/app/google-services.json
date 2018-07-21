@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "770701280077",
+    "firebase_url": "https://anjirwala-fabrics.firebaseio.com",
+    "project_id": "anjirwala-fabrics",
+    "storage_bucket": "anjirwala-fabrics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770701280077:android:d2b709ecd185e3a8",
+        "android_client_info": {
+          "package_name": "com.anjirwala.project.anjirwalafabrics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770701280077-cbbbbr68ltnpfumhjdvp1lbg63i7rkas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anjirwala.project.anjirwalafabrics",
+            "certificate_hash": "cfd2f4ecdf38a69a6f662a2355c2b03875b9ad4f"
+          }
+        },
+        {
+          "client_id": "770701280077-6chcapli809hanqpshq35r4ense25i4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgjYxKfo8NEbbz0l_rJEzpXSuIWDiR4C0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770701280077-6chcapli809hanqpshq35r4ense25i4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
